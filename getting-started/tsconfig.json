@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // 이 프로젝트에서 js를 허용하겠다
+    "checkJs": true, // 자바스크립트에서 ts의 기능을 쓰도록 해주겠다
+    "noImplicitAny": true // 타입에 대해 최소한 any라고 하는 기본적인 타입이라도 명시해줘야 한다
+  }
+}
+// 컴파일 할 때 부가적인 옵션들
